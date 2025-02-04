@@ -1,3 +1,3 @@
 # duck-tape
 
-solution for all
+practice coding 
